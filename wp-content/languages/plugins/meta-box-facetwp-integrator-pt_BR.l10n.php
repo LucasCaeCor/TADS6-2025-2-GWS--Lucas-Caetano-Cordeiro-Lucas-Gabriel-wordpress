@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2018-10-24 01:04:37+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - MB FacetWP Integration - Stable (latest release)','language'=>'pt_BR','messages'=>['https://metabox.io'=>'https://metabox.io','MetaBox.io'=>'MetaBox.io','Integrates Meta Box custom fields with FacetWP.'=>'Integra campos personalizados do Meta Box com o FacetWP.','https://metabox.io/plugins/mb-facetwp-integrator/'=>'https://metabox.io/plugins/mb-facetwp-integrator/','No'=>'Não','Yes'=>'Sim']];
